@@ -1,3 +1,5 @@
 ## Exon
 
-[![2](https://github-profile-trophy.vercel.app/?username=TheDespre1990&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+<img alt="GIF" align="center" src="https://media1.tenor.com/m/b-K6eN0LxUYAAAAd/ida-love-ida.gif">
+</div>
